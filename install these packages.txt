@@ -1,0 +1,6 @@
+pip install SpeechRecognition
+pip install easygui
+pip install PyAudio 
+pip install numpy
+pip install tkinter
+pip install matplotlib
